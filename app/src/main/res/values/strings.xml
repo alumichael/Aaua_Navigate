@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AAUA Navigate</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_about">About</string>
+    <string name="title_activity_maps">AAUA Navigate</string>
+    <string name="choose_destination">Choose Destination</string>
+
+    <string name="Senate">Senate Building</string>
+    <string name="title_activity_maps2">Map</string>
+</resources>

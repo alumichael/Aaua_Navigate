@@ -1,0 +1,122 @@
+[
+  {
+    "PLACES": "OBJ Multipurpose Hall",
+    "LONGITUDE": "5.7393679999999998",
+    "LATITUDE": "7.4793419999999999"
+  },
+  {
+    "PLACES": "OLD Relaxation Centre",
+    "LONGITUDE": "5.739312",
+    "LATITUDE": "7.4798929999999997"
+  },
+  {
+    "PLACES": "LAW LT",
+    "LONGITUDE": "5.7390470000000002",
+    "LATITUDE": "7.4803224999999998"
+  },
+  {
+    "PLACES": "CBT Centre",
+    "LONGITUDE": "5.7392469999999998",
+    "LATITUDE": "7.4806970000000002"
+  },
+  {
+    "PLACES": "Student Affairs Village",
+    "LONGITUDE": "5.7382669999999996",
+    "LATITUDE": "7.4810530000000002"
+  },
+  {
+    "PLACES": "LT A Block",
+    "LONGITUDE": "5.7402129999999998",
+    "LATITUDE": "7.480658"
+  },
+  {
+    "PLACES": "LT B Block",
+    "LONGITUDE": "5.7402850000000001",
+    "LATITUDE": "7.4801469999999997"
+  },
+  {
+    "PLACES": "Mass Communication LT/WebMaster Office",
+    "LONGITUDE": "5.7403029999999999",
+    "LATITUDE": "7.4792750000000003"
+  },
+  {
+    "PLACES": "AAUA Student Union Building",
+    "LONGITUDE": "5.7391480000000001",
+    "LATITUDE": "7.4822629999999997"
+  },
+  {
+    "PLACES": "ICTAC Building",
+    "LONGITUDE": "5.7414500000000004",
+    "LATITUDE": "7.481808"
+  },
+  {
+    "PLACES": "ETF 750 Hall",
+    "LONGITUDE": "5.7417480000000003",
+    "LATITUDE": "7.4819430000000002"
+  },
+  {
+    "PLACES": "Post Graduate School",
+    "LONGITUDE": "5.7417249999999997",
+    "LATITUDE": "7.4820580000000003"
+  },
+  {
+    "PLACES": "Mathematics LT",
+    "LONGITUDE": "5.7432189999999999",
+    "LATITUDE": "7.4822430000000004"
+  },
+  {
+    "PLACES": "Master Business Administration (MBA) LT",
+    "LONGITUDE": "5.7436069999999999",
+    "LATITUDE": "7.4822490000000004"
+  },
+  {
+    "PLACES": "Education LT",
+    "LONGITUDE": "5.743627",
+    "LATITUDE": "7.4819469999999999"
+  },
+  {
+    "PLACES": "Faculty of Social and Management Sciences",
+    "LONGITUDE": "5.7441089999999999",
+    "LATITUDE": "7.4820120000000001"
+  },
+  {
+    "PLACES": "Geology LT",
+    "LONGITUDE": "5.7432629999999998",
+    "LATITUDE": "7.4819399999999998"
+  },
+  {
+    "PLACES": "Intercontinetal hall",
+    "LONGITUDE": "5.7432819999999998",
+    "LATITUDE": "7.4809970000000003"
+  },
+  {
+    "PLACES": "Access Bank",
+    "LONGITUDE": "5.7428559999999997",
+    "LATITUDE": "7.4795980000000002"
+  },
+  {
+    "PLACES": "Varsity",
+    "LONGITUDE": "5.7414300000000003",
+    "LATITUDE": "7.4794720000000003"
+  },
+  {
+    "PLACES": "Security Unit",
+    "LONGITUDE": "5.7418829999999996",
+    "LATITUDE": "7.4790150000000004"
+  },
+  {
+    "PLACES": "Aluta Market",
+    "LONGITUDE": "5.7421490000000004",
+    "LATITUDE": "7.4787670000000004"
+  },
+  {
+    "PLACES": "Faculty of Education",
+    "LONGITUDE": "5.7438940000000001",
+    "LATITUDE": "7.4790150000000004"
+  },
+  {
+    "PLACES": "Health Centre",
+    "LONGITUDE": "5.7440559999999996",
+    "LATITUDE": "7.4778289999999998"
+  }
+]
