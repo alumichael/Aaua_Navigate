@@ -23,7 +23,7 @@
         android:layout_gravity="center"
         android:layout_marginTop="32dp"
         android:contentDescription="mylogo"
-        android:src="@drawable/dsc_logo"/>
+        android:src="@drawable/gdglogo"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -64,7 +64,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="DSC AAUA"
+        android:text="GDG AKOKO"
         android:textAlignment="center"
         android:id="@+id/gdg"
         android:textColor="@color/colorAccent"
@@ -93,7 +93,7 @@
             android:layout_below="@+id/version"
             android:layout_marginTop="10dp"
             android:gravity="center"
-            android:text="For any Info: dscaaua@gmail.com"
+            android:text="For any Info, contact us: +2347069722188 \\ +2348106746804"
             android:textAlignment="center"
             android:textSize="15sp" />
     <TextView

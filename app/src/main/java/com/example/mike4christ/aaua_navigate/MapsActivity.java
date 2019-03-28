@@ -378,9 +378,7 @@ public class MapsActivity extends AppCompatActivity implements RoutingListener, 
                 progressDialog.setMax(100);
                 progressDialog.setCanceledOnTouchOutside(true);
 
-                if (progressDialog.getProgress()==100){
-                   Alert();
-                }
+
                 class FetchApi extends AsyncTask<Void, Void, Void> {
 
                     @RequiresApi(api = Build.VERSION_CODES.O)
